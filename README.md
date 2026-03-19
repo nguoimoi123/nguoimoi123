@@ -35,7 +35,8 @@ Mình thích xây dựng các hệ thống thông minh bằng cách kết hợp 
 ### 🗄️ Database
 
 * MongoDB  
-* MySQL  
+* MySQL
+* Astra
 
 ---
 
