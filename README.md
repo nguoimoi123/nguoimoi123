@@ -1,16 +1,13 @@
 ## Hi there 👋
 
-<!--
-**nguoimoi123/nguoimoi123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mình là **Bùi Nguyễn Minh Quân**  
+🎓 Sinh viên Công nghệ Thông tin  
+💡 Định hướng trở thành AI Developer  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Hiện tại mình đang học và phát triển về AI & Web Development  
+- 🌱 Đang tìm hiểu sâu về RAG, Machine Learning và hệ thống AI  
+- 👯 Mong muốn được tham gia các dự án thực tế  
+- 🤔 Đang cải thiện kỹ năng backend và system design  
+- 💬 Có thể hỏi mình về Node.js, React, API, hoặc AI cơ bản  
+- 📫 Liên hệ: buinguyenminhquan84@gmail.com  
+- ⚡ Fun fact: Thích xây chatbot và ứng dụng AI 😄
